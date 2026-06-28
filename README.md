@@ -78,3 +78,11 @@ This repository will grow with the company and eventually include:
 ---
 
 > Every project should improve this handbook.
+---
+
+# Engineering Handbook
+
+**Version:** 1.0.0  
+**Published:** June 28, 2026  
+**Maintained by:** Veynor Interactive Engineering
+
