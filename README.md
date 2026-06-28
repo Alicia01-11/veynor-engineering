@@ -86,3 +86,9 @@ This repository will grow with the company and eventually include:
 **Published:** June 28, 2026  
 **Maintained by:** Veynor Interactive Engineering
 
+---
+
+This handbook defines the engineering principles, workflows, standards, and best practices followed across all Veynor Interactive software projects.
+
+It is a living document that evolves alongside the company.
+
